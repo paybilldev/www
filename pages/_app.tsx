@@ -1,6 +1,9 @@
 import "@code-hike/mdx/styles";
 import "../styles/code-hike.scss";
 import "../styles/index.css";
+import '../styles/global.css';
+import '../styles/dark-combined.css';
+import '../styles/light.css';
 
 import { DefaultSeo } from "next-seo";
 import { AppProps } from "next/app";

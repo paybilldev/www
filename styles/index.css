@@ -2,10 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@import './global.css';
-@import './dark-combined.css';
-@import './light.css';
-
 @layer utilities {
   .run {
     animation-play-state: running;
